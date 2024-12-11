@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/a.out.dir/Task_3.cpp.o -o a.out  $(GTEST_LIBRARIES) 

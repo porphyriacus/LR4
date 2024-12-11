@@ -1,0 +1,4 @@
+/home/porphyriacus/Documents/453502/ОАиП/LR4/build/CMakeFiles/a.out.dir
+/home/porphyriacus/Documents/453502/ОАиП/LR4/build/CMakeFiles/test.dir
+/home/porphyriacus/Documents/453502/ОАиП/LR4/build/CMakeFiles/edit_cache.dir
+/home/porphyriacus/Documents/453502/ОАиП/LR4/build/CMakeFiles/rebuild_cache.dir
